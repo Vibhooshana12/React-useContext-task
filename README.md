@@ -133,4 +133,4 @@ To deploy your application:
 -React for providing a flexible JavaScript library for building user interfaces.
 -React Router for enabling dynamic routing in the application.
 -Material UI for providing beautiful and customizable components.
-=Netlify for hosting and deploying the application.
+-Netlify for hosting and deploying the application.
