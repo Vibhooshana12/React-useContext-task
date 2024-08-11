@@ -3,7 +3,7 @@
 This project demonstrates the implementation of a shopping cart in a React application using react-router-dom and ContextAPI for state management.
 
 ## Demo
-Check out the live demo of the project [here](https://react-usecontext-vibhooshana.netlify.app/))
+Check out the live demo of the project [here](https://react-usecontext-vibhooshana.netlify.app/)
 
 ## Functionalities
 
@@ -13,7 +13,7 @@ Check out the live demo of the project [here](https://react-usecontext-vibhoosha
 
 ## Folder Structure
 
-reactrouter-app/
+reactcontext-app/
 
 ├── node_modules/
 
@@ -62,8 +62,8 @@ reactrouter-app/
 
 ```bash
 
-npx create-react-app reactrouter-app
-cd reactrouter-app
+npx create-react-app reactcontext-app
+cd reactcontext-app
 
 ```
 2. Install react-router-dom:
@@ -76,7 +76,10 @@ npm install react-router-dom
 3. Install dependencies:
    
 ```bash
-  npm install react-router-dom @mui/material @emotion/react @emotion/styled @mui/icons-material
+  npm install @mui/material @emotion/react @emotion/styled
+  npm install @mui/material @mui/styled-engine-sc styled-components
+  npm install @fontsource/roboto
+  npm install @mui/icons-material
 ```
 
 4. Add Components
